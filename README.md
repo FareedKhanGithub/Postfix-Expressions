@@ -12,7 +12,9 @@
 #How to run
 	 
    -- g++ -o test Postfix.cpp
-   --./test                //to get the output
+   
+   --./test                     //to get the output
+   
    --you input a word and you will get the reverse of that word as this is default.
 
 
