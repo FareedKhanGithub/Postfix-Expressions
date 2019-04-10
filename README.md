@@ -1,11 +1,12 @@
 #About
+   
    Postfix Expressions order is given by the first and secound operands and then given the operator and then does the calculation. 
 
 
 
 #Install
   
-  -C++
+  	-C++
 
 
 #How to run
@@ -24,8 +25,9 @@
      	Add() is a function that is called when the character equals 43 which is the operator +. 
      This goes to the next letter every time it is used. 
 
-     	Multiply() is a function that is called when the character is a number between 0-9, the number is the operator.
-     This displays the letter as many times as the number. So the operator 3 after r would mean r is displayed 3 times. 
+	Multiply() is a function that is called when the character is a number between 0-9,
+     the number is the operator. This displays the letter as many times as the number.
+     So the operator 3 after r would mean r is displayed 3 times. 
 	
      Everything else that has not been explained will be ignored by the program.
 
