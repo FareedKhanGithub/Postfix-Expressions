@@ -1,6 +1,6 @@
 #About
    
-   Postfix Expressions order is given by the first and secound operands and then given the operator and then does the calculation. 
+   Postfix Expressions order is given by the first and second operands and then given the operator and then does the calculation. 
 
 
 
